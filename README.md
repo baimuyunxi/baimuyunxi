@@ -54,14 +54,14 @@
 
 ### 🏢 Work Experience
 
-<img align="right" width="88" src="/assets/images/blink.jpg" />
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/baimuyunxi/baimuyunxi//assets/images/blink.jpg" />
 
 - [深圳市必联电子有限公司](https://b-link.net.cn/about/8.html) &emsp; 📌 2022-08 —— 2023-05
 
     - 工作岗位：软件工程师
     - 工作内容：嵌入式模块开发
 
-<img align="right" width="88" src="assets/images/dainxin.png" />
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/baimuyunxi/baimuyunxi/assets/images/dainxin.png" />
 
 - [湖南电信省客服中心](#) &emsp; 📌 2023-05 —— Now
 
