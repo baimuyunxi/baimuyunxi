@@ -24,7 +24,6 @@
     <!-- visitor statistics logo 访问量统计徽标 -->
     <img src="https://komarev.com/ghpvc/?username=baimuyunxi&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
   </div>
-
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/baimuyunxi/baimuyunxi/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
@@ -58,41 +57,27 @@
 
 - [深圳市必联电子有限公司](https://b-link.net.cn/about/8.html) &emsp; 📌 2022-08 —— 2023-05
 
-    - 工作岗位：软件工程师
-    - 工作内容：嵌入式模块开发
+  - 工作岗位：软件工程师
+  - 工作内容：嵌入式模块开发
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/baimuyunxi/baimuyunxi/assets/images/dainxin.png" />
 
 - [湖南电信省客服中心](#) &emsp; 📌 2023-05 —— Now
 
-    - 工作岗位：大数据支撑
-    - 工作内容：AI大数据模型开发 & 数据支撑
+  - 工作岗位：大数据支撑
+  - 工作内容：AI大数据模型开发 & 数据支撑
 
 </td></tr>
-
-[//]: # (<tr><td>)
-
-[//]: # ()
-
-[//]: # (<span>)
-
-[//]: # ( <img  src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />)
-
-[//]: # ( <img  src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />)
-
-[//]: # ( <img  src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" />)
-
-[//]: # (</span>)
 
 <tr><td>
 
 <div style="display: flex; width: 100%;">
   <div style="flex: 1;">
-    <img height="137px" src="https://github-readme-stats.vercel.app/api?username=baimuyunxi&hide_border=true&show_icons=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite&include_all_commits=true&count_private=true" />
+    <img height="100%" src="https://github-readme-stats.vercel.app/api?username=baimuyunxi&hide_border=true&show_icons=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite&include_all_commits=true&count_private=true" />
   </div>
 
-  <div style="flex: 1; margin-top: 3px;width: 100%;">
-    <img top='1px' height="128px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baimuyunxi&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite&line_height=21&show_icons=true&include_all_commits=true&count_private=true" />
+  <div style="flex: 1; width: 100%;">
+    <img height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baimuyunxi&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite&line_height=21&show_icons=true&include_all_commits=true&count_private=true" />
   </div>
 </div>
 
