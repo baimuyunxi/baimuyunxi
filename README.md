@@ -49,27 +49,6 @@
 
 </td></tr>
 
-<tr><td>
-
-### 🏢 Work Experience
-
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/baimuyunxi/baimuyunxi//assets/images/blink.jpg" />
-
-- [深圳市必联电子有限公司](https://b-link.net.cn/about/8.html) &emsp; 📌 2022-08 —— 2023-05
-
-  - 工作岗位：软件工程师
-  - 工作内容：嵌入式模块开发
-
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/baimuyunxi/baimuyunxi/assets/images/dainxin.png" />
-
-- [湖南电信省客服中心](#) &emsp; 📌 2023-05 —— Now
-
-  - 工作岗位：大数据支撑
-  - 工作内容：AI大数据模型开发 & 数据支撑
-
-</td></tr>
-
-<tr><td>
 
 <div style="display: flex; width: 100%;">
   <div style="flex: 1;">
